@@ -1,0 +1,24 @@
+{
+  "name": "jalalidatetimepicker",
+  "version": "1.0.0",
+  "description": "ant design react component to support jalali date and time picker",
+  "main": "dist/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "JalaliDateTimePicker",
+    "DateTimePicker",
+    "Persian"
+  ],
+  "author": "Amir Fahmideh",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.0",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.4.4"
+  }
+}
